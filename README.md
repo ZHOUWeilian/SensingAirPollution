@@ -1,6 +1,7 @@
 # SensingAirPollution
-ICESA2025: Sensing Air Pollution via Streetscape Imagery and Machine learning: A Case Study in Hong Kong
-CEUS: Exploring Multi-Air-Pollutant from Streetscape Imagery Using Statistical and Deep Learning: A Novel and Comprehensive Investigation in Hong Kong
+ICESA2025: Sensing Air Pollution via Streetscape Imagery and Machine learning: A Case Study in Hong Kong.
+
+CEUS: Exploring Multi-Air-Pollutant from Streetscape Imagery Using Statistical and Deep Learning: A Novel and Comprehensive Investigation in Hong Kong.
 
 ## Coming soon! Demo code will be released after paper acceptance.
 
