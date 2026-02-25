@@ -2,7 +2,7 @@
 ICESA2025: Sensing Air Pollution via Streetscape Imagery and Machine learning: A Case Study in Hong Kong.
 (Zhou, W., Hou, H. C., & Wong, M. S. Sensing Air Pollution via Streetscape Imagery and Machine learning: A Case Study in Hong Kong.)
 
-For Journal: Exploring Multi-Air-Pollutant from Streetscape Imagery Using Statistical and Deep Learning: A Novel and Comprehensive Investigation in Hong Kong.
+For Journal: is preparing.
 
 ## Demo code is released. You can try it by your own data.
 ## Due to the policy of Project, we can only provide an example 'demo_data' for your references.
