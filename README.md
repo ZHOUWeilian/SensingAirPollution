@@ -39,6 +39,6 @@ Conceptual framework diagram designed for the ICESA2025 conference paper.
 
 ### 2. Extended Journal Full Version
 
-![Alt text](https://github.com/ZHOUWeilian/SensingAirPollution/blob/main/concept.png)
+![Alt text](https://github.com/ZHOUWeilian/SensingAirPollution/blob/main/Technicalroadmap.png)
 Comprehensive extended technical roadmap for the journal-expanded manuscript.
 
