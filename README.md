@@ -17,6 +17,6 @@ Demo code has been released, you can run experiments with your own custom datase
 This figure is for the conference version, submitted to the ICESA2025.
 
 ### 2. Extended Journal Version
-![Alt text](https://github.com/ZHOUWeilian/SensingAirPollution/blob/main/Technical roadmap.jpg)
+![Alt text](https://github.com/ZHOUWeilian/SensingAirPollution/blob/main/Technicalroadmap.jpg)
 This figure is the extension of conference paper for the journal version, submitted to the Journal.
 
