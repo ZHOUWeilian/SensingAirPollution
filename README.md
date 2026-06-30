@@ -1,5 +1,5 @@
 # 🌫️ SensingAirPollution
-## 📌 ICESA2025 Conference Project
+## 📌 ICESA2025 Conference
 **Paper Title**: Sensing Air Pollution via Streetscape Imagery and Machine Learning: A Case Study in Hong Kong
 > 📝 The extended full journal manuscript is currently under peer review.
 
