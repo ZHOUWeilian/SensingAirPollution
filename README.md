@@ -1,17 +1,15 @@
 # SensingAirPollution
-ICESA2025: Sensing Air Pollution via Streetscape Imagery and Machine Learning: A Case Study in Hong Kong
+ICESA2025 Conference: Sensing Air Pollution via Streetscape Imagery and Machine Learning: A Case Study in Hong Kong
+Journal version is still under review.
 
 ## Citation
-Zhou, W., Hou, H. C., & Wong, M. S. Sensing Air Pollution via Streetscape Imagery and Machine Learning: A Case Study in Hong Kong.
-
-## Publication Status
-- Conference paper: Submitted & presented at ICESA2025
-- Extended journal manuscript: Manuscript under preparation
+Conference: Zhou, W., Hou, H. C., & Wong, M. S. Sensing Air Pollution via Streetscape Imagery and Machine Learning: A Case Study in Hong Kong.
+Journal: under review.
 
 ## Project Notice
 Demo code has been released, you can run experiments with your own custom datasets.
 
-> Data Policy Notice: Due to project confidential policy, only a sample dataset `demo_data` is provided for reference.
+> Data Policy Notice: Due to project confidential policy, only a sample dataset `demo_data` is provided for reference. If you need more data, please contact the corresponding author.
 
 ## Framework Figures
 ### 1. Conference Version (ICESA2025)
