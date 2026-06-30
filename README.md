@@ -12,7 +12,7 @@ A web-based street-level air pollution prediction demo is available on Hugging F
 https://huggingface.co/spaces/William941008/StreetLevelAirPollutionPrediction
 
 ## Project Notice
-Full demo code has been released, supporting experiments with your own custom datasets.
+Demo code has been released, supporting experiments with your own custom datasets.
 
 > **Data Policy Notice**: Due to project confidentiality restrictions, only the sample dataset `demo_data` is provided for reference.
 > If you require access to complete original data, please reach out to the corresponding author.
