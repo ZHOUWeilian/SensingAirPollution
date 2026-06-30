@@ -1,29 +1,44 @@
-# SensingAirPollution
-ICESA2025 Conference: Sensing Air Pollution via Streetscape Imagery and Machine Learning: A Case Study in Hong Kong
+# 🌫️ SensingAirPollution
+## 📌 ICESA2025 Conference Project
+**Paper Title**: Sensing Air Pollution via Streetscape Imagery and Machine Learning: A Case Study in Hong Kong
+> 📝 The extended full journal manuscript is currently under peer review.
 
-The extended journal manuscript is currently under review.
+---
 
-## Citation
-- Conference Paper: Zhou, W., Hou, H. C., & Wong, M. S. Sensing Air Pollution via Streetscape Imagery and Machine Learning: A Case Study in Hong Kong.
-- Journal Manuscript: Under review
+## 📚 Citation Information
+### 📄 Conference Paper
+Zhou, W., Hou, H. C., & Wong, M. S. Sensing Air Pollution via Streetscape Imagery and Machine Learning: A Case Study in Hong Kong.
 
-## Online Application
-A web-based street-level air pollution prediction demo is available on Hugging Face Spaces:
-https://huggingface.co/spaces/William941008/StreetLevelAirPollutionPrediction
+### 📖 Journal Manuscript
+Status: ⏳ Under review
 
-## Project Notice
-Demo code has been released, supporting experiments with your own custom datasets.
+---
 
-> **Data Policy Notice**: Due to project confidentiality restrictions, only the sample dataset `demo_data` is provided for reference.
-> If you require access to complete original data, please reach out to the corresponding author.
+## 🚀 Online Demo Application
+A fully functional web-based street-level air pollution prediction demo is deployed on Hugging Face Spaces:
+🔗 https://huggingface.co/spaces/William941008/StreetLevelAirPollutionPrediction
 
-## Framework Figures
+---
+
+## 📢 Project Notice
+✅ Demo source code has been open-sourced, supporting customized experiments with your private datasets.
+- Core code (demo code): SGP, XGBoost and SHAP code version 1 and 2
+- Additional auxiliary scripts are included; you can run them with your own dataset as needed.
+
+> ⚠️ **Data Confidentiality Policy**
+> Due to internal project data access restrictions, only the lightweight sample dataset `demo_data` is provided for demonstration purposes.
+> If you need full access to the complete raw research dataset, please contact the corresponding author via email.
+
+---
+
+## 🖼️ Framework Visualization Figures
 ### 1. Conference Version (ICESA2025)
 
 ![Alt text](https://github.com/ZHOUWeilian/SensingAirPollution/blob/main/concept.png)
 Conceptual framework diagram designed for the ICESA2025 conference paper.
 
-### 2. Extended Journal Version
+### 2. Extended Journal Full Version
 
-![Alt text](https://github.com/ZHOUWeilian/SensingAirPollution/blob/main/Technicalroadmap.jpg)
-Extended technical roadmap for the journal-expanded manuscript.
+![Alt text](https://github.com/ZHOUWeilian/SensingAirPollution/blob/main/concept.png)
+Comprehensive extended technical roadmap for the journal-expanded manuscript.
+
